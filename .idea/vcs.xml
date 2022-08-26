@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/APIProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mongodb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mongodb5" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mongotest1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mongotest3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test2" vcs="Git" />
+  </component>
+</project>
